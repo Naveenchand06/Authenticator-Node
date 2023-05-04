@@ -1,1 +1,1 @@
-## JWT Authentication
+## Authenticator
